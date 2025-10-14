@@ -1,5 +1,5 @@
 # I'm Talha 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhakobir067)](https://github.com/talhakobir067/github-readme-stats)
 <!--
 **talhakobir067/talhakobir067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
