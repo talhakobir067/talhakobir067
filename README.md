@@ -50,8 +50,7 @@
 
 ## 🔬 Current Research & Projects
 
-- 🛡️ **5G Network Security** — Behavioral representation and statistical deviation modeling for network security.
-- 🤖 **Bangla Document RAG Security** — Evaluating cross-script indirect prompt injection in Bangla document-based RAG systems.
+- 🛡️ **Network Security** — Behavioral representation and statistical deviation modeling for network security.
 - 📝 **KhataAI** — Exploring multimodal AI for handwritten answer evaluation and rubric-based assessment.
 - 📊 **Intelligent Text Classification** — Machine learning and deep learning approaches for sentiment analysis, spam detection, and threat intelligence.
 
