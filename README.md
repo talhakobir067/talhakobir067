@@ -65,7 +65,7 @@ I enjoy exploring research problems and translating experimental results into sc
 - 📧 Machine learning-based spam detection.
 - 🧪 Research on explainable AI and intelligent classification systems.
 
-🔎 Explore my research and publications through my [Google Scholar](https://scholar.google.com/) profile.
+🔎 Explore my research and publications through my [[Google Scholar](https://scholar.google.com/citations?hl=en&user=g-FEC1IAAAAJ) profile.
 
 ---
 
